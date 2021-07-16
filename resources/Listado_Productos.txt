@@ -1,0 +1,22 @@
+﻿Dia        Producto(SKU)        Distrito
+=================================================================================================================================================================================
+=================================================================================================================================================================================
+Lunes 1 de Junio de 2020        Aderezo Aguacate-Habanero 250 ml (3627359)        008 CIUDAD DE MEXICO
+Lunes 1 de Junio de 2020        Aderezo Mango Thai Vegetalistos Pza 254 (3437501)        160 PUEBLA
+Lunes 1 de Junio de 2020        Aderezo Moztaza Provenza 250 ml (3627401)        248 XALAPA
+Lunes 1 de Junio de 2020        Aderezo Soya Limón Lionali Pz 263g (3364814)        744 AGUASCALIENTES
+Lunes 1 de Junio de 2020        Aderezo Tamarindo Leonali pz 250 ml (3364894)        032 TECAMAC
+Lunes 1 de Junio de 2020        Betabel Rallado Vegetalistos Bolsa 390 (3403156)        112 TOLUCA
+Lunes 1 de Junio de 2020        Ensalada Oriental Bolsa Pz    (3252022)        128 TAXCO
+Lunes 1 de Junio de 2020        Ens Antioxidante Leonali 210 Grs (3338883)        160 PUEBLA
+Lunes 1 de Junio de 2020        Ens Super Food 5 Vegetalistos Bolsa 200 (3437500)        248 XALAPA
+Lunes 1 de Junio de 2020        Espinaca Baby Bolsa 250 Gr (3224393)        248 XALAPA
+Lunes 1 de Junio de 2020        Jicama Precortada 454 gr (3485929)        248 XALAPA 
+Lunes 1 de Junio de 2020        Kale Superfood Leonali Pz 150 Gr (3364812)        008 CIUDAD DE MEXICO
+Lunes 1 de Junio de 2020        Zanahoria Baby 340 grs (3485924)        592 MERIDA
+Lunes 1 de Junio de 2020        Zanahoria Rallada 340 Gr (3485928)        176 HUAMANTLA
+Martes 2 de Junio de 2020        ENS RANCH 226 GR        176 HUAMANTLA
+Martes 2 de Junio de 2020        ZANAHORIA BABY 150G        160 PUEBLA
+Miércoles 3 de Junio de 2020        ENSALADA ORIENTAL VEGETALISTOS 300 GR P        160 PUEBLA
+Miércoles 3 de Junio de 2020        BETABEL LEONALI RAYADO BOL 390GR        744 AGUASCALIENTES
+Miércoles 3 de Junio de 2020        JICAMA BASTONES 150G        008 CIUDAD DE MEXICO
